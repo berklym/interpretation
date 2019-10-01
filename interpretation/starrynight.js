@@ -1,0 +1,17 @@
+function setup() {
+	createCanvas(s)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
